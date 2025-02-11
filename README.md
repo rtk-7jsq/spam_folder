@@ -1,1 +1,1 @@
-#This script creates folders in subfolders.
+#This script creates folders in subfolders
